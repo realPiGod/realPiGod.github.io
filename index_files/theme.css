@@ -3910,8 +3910,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   color: #333333;
 }
 .navbar-inverse {
-  background-color: #ff3333;
-  border-color: #ff3333;
+  background-color: rgba(255, 138, 51, 0.68);
+  border-color: rgba(255, 138, 51, 0.68);
 }
 .navbar-inverse .navbar-brand {
   color: #ffffff;
